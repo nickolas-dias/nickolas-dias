@@ -20,6 +20,7 @@
   <img align="center" alt="Nick-Webpack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg">
   <img align="center" alt="Nick-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Nick-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="right" alt="Cat-pic" height="150" style="border-radius:50px;" src="https://gifdb.com/images/high/angry-black-cat-cartoon-oftm3bpqu6awsdtr.gif"/>
 </div>
 
 ##
@@ -31,4 +32,5 @@
   <a href="https://www.linkedin.com/in/nickolas-dias-33068a1b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
- <img height="180em" src="https://gifdb.com/images/high/angry-black-cat-cartoon-oftm3bpqu6awsdtr.gif"/>
+
+
