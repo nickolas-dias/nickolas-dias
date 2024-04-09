@@ -31,9 +31,6 @@
   <a href="https://www.linkedin.com/in/nickolas-dias-33068a1b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  </div>
 
- ##
-
-<h3 align="left">Games</h3>
 <div style="display: inline_block"><br>
     <a href="https://steamcommunity.com/id/nixzin/" target="_blank"><img  src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
     <img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white target="/>
