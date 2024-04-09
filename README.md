@@ -41,7 +41,6 @@
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
     <img src="https://img.shields.io/badge/AMD-Ryzen_7_7800X3D-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
     <img src="https://img.shields.io/badge/NVIDIA-GTX4070-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
  </div>
     
  ##
