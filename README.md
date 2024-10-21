@@ -17,7 +17,6 @@
   <img align="center" alt="Nick-Webpack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg">
   <img align="center" alt="Nick-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Nick-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="right" alt="Cat-pic" height="150" style="border-radius:20px;" src="https://gifdb.com/images/high/angry-black-cat-cartoon-oftm3bpqu6awsdtr.gif"/>
 </div>
 
 ##
@@ -36,6 +35,7 @@
     <a href="https://discord.gg/6Pgn6ssRWe" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
     <img src="https://img.shields.io/badge/AMD-Ryzen_7_7800X3D-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
     <img src="https://img.shields.io/badge/NVIDIA-GTX4070-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+    <img align="right" alt="Cat-pic" height="150" style="border-radius:20px;" src="https://gifdb.com/images/high/angry-black-cat-cartoon-oftm3bpqu6awsdtr.gif"/>
  </div>
     
  ##
